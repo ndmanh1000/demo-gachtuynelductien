@@ -1,0 +1,666 @@
+{
+  "Navigation": {
+    "about": "Về chúng tôi",
+    "products": "Sản phẩm",
+    "projects": "Dự án",
+    "partners": "Đối tác",
+    "news": "Tin tức",
+    "contact": "Liên hệ"
+  },
+  "Hero": {
+    "title": "Vững Bước Truyền Thống, Kiến Tạo Tương Lai",
+    "subtitle": "Ceramica Masonry - Giải pháp gạch xây dựng chất lượng cao, bền vững theo thời gian cho mọi công trình kiến trúc đẳng cấp.",
+    "explore_btn": "KHÁM PHÁ SẢN PHẨM",
+    "contact_btn": "LIÊN HỆ TƯ VẤN"
+  },
+  "FeaturedProducts": {
+    "title": "Sản phẩm nổi bật",
+    "subtitle": "OUR MATERIALS",
+    "see_all": "Xem tất cả sản phẩm",
+    "solid_brick": {
+      "name": "Gạch đặc",
+      "desc": "Chịu lực siêu cao, chống thấm tuyệt đối cho bức tường vững chắc.",
+      "tags": ["Eco-friendly", "High Density"]
+    },
+    "two_hole_brick": {
+      "name": "Gạch 2 lỗ",
+      "desc": "Trọng lượng nhẹ, cách âm cách nhiệt hiệu quả cho tường bao.",
+      "tags": ["Insulation", "Standard"]
+    },
+    "four_hole_brick": {
+      "name": "Gạch 4 lỗ",
+      "desc": "Giải pháp tối ưu cho vách ngăn không gian, độ cách âm tuyệt đối.",
+      "tags": ["Eco-friendly", "Versatile"]
+    },
+    "decorative_brick": {
+      "name": "Gạch trang trí",
+      "desc": "Điểm nhấn thẩm mỹ với đa dạng họa tiết và màu sắc tự nhiên.",
+      "tags": ["Design-led", "Eco-friendly"]
+    }
+  },
+  "Projects": {
+    "title": "Dự án tiêu biểu",
+    "subtitle": "OUR MASTERPIECES",
+    "desc": "Chúng tôi tự hào đồng hành cùng các công trình biểu tượng. Từ các khu phức hợp căn hộ cao cấp đến các khu công nghiệp hiện đại trên khắp cả nước.",
+    "project1": "Khu căn hộ SkyLine Central",
+    "project2": "Tổ hợp công nghiệp Delta-X",
+    "project3": "Biệt thự đá The Heritage",
+    "project4": "Trung tâm thương mại hiện đại",
+    "project5": "Khu nghỉ dưỡng cao cấp",
+    "project6": "Tòa tháp căn hộ",
+    "locations": {
+      "hcm": "Quận 1, TP. Hồ Chí Minh",
+      "binhduong": "Bến Cát, Bình Dương",
+      "hanoi": "Hòa Lạc, Hà Nội",
+      "danang": "Hải Châu, Đà Nẵng",
+      "nhatrang": "Cam Ranh, Nha Trang"
+    },
+    "stats": {
+      "completed": "Dự án hoàn thành",
+      "clients": "Khách hàng hài lòng",
+      "awards": "Giải thưởng",
+      "cities": "Thành phố"
+    },
+    "portfolio": {
+      "badge": "Danh mục dự án",
+      "title": "Dự án nổi bật",
+      "desc": "Khám phá danh mục dự án đa dạng và thành công của chúng tôi trên khắp Việt Nam"
+    },
+    "viewProject": "Xem dự án",
+    "cta": {
+      "badge": "Bắt đầu dự án",
+      "title": "Sẵn sàng xây dựng ước mơ?",
+      "subtitle": "Hãy thảo luận về dự án của bạn và biến tầm nhìn thành hiện thực với chuyên môn của chúng tôi",
+      "contact": "Liên hệ",
+      "products": "Xem sản phẩm"
+    }
+  },
+  "Team": {
+    "title": "Đội ngũ chuyên gia",
+    "subtitle": "OUR EXPERTISE",
+    "desc": "Những con người tâm huyết đứng sau chất lượng vượt trội của Ceramica Masonry, kết hợp kinh nghiệm truyền thống với kỹ thuật sản xuất hiện đại.",
+    "member1": {
+      "name": "Nguyễn Văn An",
+      "role": "KỸ SƯ TRƯỞNG",
+      "desc": "Với hơn 20 năm kinh nghiệm trong ngành vật liệu xây dựng, ông dẫn dắt đội ngũ kỹ thuật và phát triển hệ thống dây chuyền."
+    },
+    "member2": {
+      "name": "Lê Thị Bình",
+      "role": "GIÁM ĐỐC SẢN XUẤT",
+      "desc": "Chuyên gia điều phối vận hành hệ thống dây chuyền tự động hiện đại chuẩn châu Âu cho những viên gạch hoàn mỹ."
+    },
+    "member3": {
+      "name": "Trần Minh Cường",
+      "role": "KIỂM SOÁT CHẤT LƯỢNG",
+      "desc": "Trực tiếp giám sát quy trình thử nghiệm các yếu tố vật lý, đảm bảo độ bền và an toàn tuyệt đối cho từng viên gạch."
+    },
+    "member4": {
+      "name": "Phạm Thu Dung",
+      "role": "CHUYÊN GIA VẬT LIỆU",
+      "desc": "Nghiên cứu và phát triển các dòng gạch mỹ thuật màu sắc mới cho khả năng ứng dụng cao."
+    }
+  },
+  "News": {
+    "title": "Tin tức mới nhất",
+    "subtitle": "INDUSTRY INSIGHTS",
+    "see_all": "Tất cả tin tức",
+    "previous": "Trước",
+    "next": "Tiếp",
+    "read_more": "Đọc thêm",
+    "featured": "Nổi bật",
+    "all": "Tất cả",
+    "sustainability": "Bền vững",
+    "company": "Công ty",
+    "technology": "Công nghệ",
+    "awards": "Giải thưởng",
+    "community": "Cộng đồng",
+    "search_placeholder": "Tìm kiếm tin tức...",
+    "no_results": "Không tìm thấy kết quả",
+    "news1": {
+      "date": "12/10/2023",
+      "title": "Xu hướng sử dụng gạch nung trong kiến trúc bền vững",
+      "desc": "Gạch nung là vật liệu phổ biến dùng trong xây dựng, tạo độ vững chắc cho công trình, khả năng cách nhiệt tuyệt đối, hoàn thiện công trình hiệu quả và tính thẩm mỹ cao...",
+      "read_more": "ĐỌC THÊM"
+    },
+    "news2": {
+      "date": "05/11/2023",
+      "title": "Công nghệ nung gạch hiện đại giảm 30% khí thải",
+      "desc": "Ceramica Masonry áp dụng quy trình sản xuất sạch hoàn toàn, giúp giảm tối đa khí thải độc hại, an toàn và thân thiện với môi trường làm việc...",
+      "read_more": "ĐỌC THÊM"
+    },
+    "news3": {
+      "date": "22/11/2023",
+      "title": "Kỹ thuật xây dựng bằng gạch 4 lỗ hiệu quả nhất",
+      "desc": "Hướng dẫn từ chuyên gia về cách phối trộn vữa và kỹ thuật xây gạch chuẩn để tối ưu hóa khả năng chịu lực cho các vách ngăn của công trình...",
+      "read_more": "ĐỌC THÊM"
+    }
+  },
+  "CTA": {
+    "title": "Khởi tạo công trình của bạn hôm nay",
+    "subtitle": "Đội ngũ kỹ thuật của chúng tôi sẵn sàng hỗ trợ tư vấn giải pháp tối ưu nhất cho mọi nhu cầu xây dựng.",
+    "quote_btn": "NHẬN BÁO GIÁ",
+    "contact_btn": "LIÊN HỆ KỸ THUẬT"
+  },
+  "Footer": {
+    "desc": "Dẫn đầu trong công nghệ sản xuất gạch nung chất lượng cao, cam kết bền vững và bảo vệ môi trường.",
+    "resources": {
+      "title": "TÀI LIỆU",
+      "tech_docs": "Technical Docs",
+      "certifications": "Certifications",
+      "install_guide": "Installation Guide"
+    },
+    "policies": {
+      "title": "CHÍNH SÁCH",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "warranty": "Warranty"
+    },
+    "commitment": {
+      "title": "CAM KẾT",
+      "environment": "Environmental Impact",
+      "social": "Social Responsibility",
+      "eco_project": "Eco-Brick Project"
+    },
+    "copyright": "© 2024 Ceramica Masonry. Produced by Masonry."
+  },
+  "About": {
+    "hero": {
+      "badge": "Thành lập 1998",
+      "title": "Về Ceramica Masonry",
+      "subtitle": "Nhà sản xuất gạch chất lượng cao hàng đầu với hơn 25 năm xuất sắc trong ngành vật liệu xây dựng"
+    },
+    "stats": {
+      "years": "Năm kinh nghiệm",
+      "employees": "Nhân viên",
+      "countries": "Quốc gia",
+      "awards": "Giải thưởng"
+    },
+    "story": {
+      "subtitle": "CÂU CHUYỆN CỦA CHÚNG TÔI",
+      "title": "Xây dựng sự xuất sắc từ năm 1998",
+      "paragraph1": "Được thành lập vào năm 1998, Ceramica Masonry đã phát triển từ một nhà sản xuất địa phương nhỏ thành một trong những nhà sản xuất gạch hàng đầu Việt Nam. Hành trình của chúng tôi được đánh dấu bằng sự đổi mới liên tục và cam kết không ngừng về chất lượng.",
+      "paragraph2": "Với cơ sở sản xuất hiện đại và đội ngũ chuyên gia giàu kinh nghiệm, chúng tôi sản xuất hàng triệu viên gạch chất lượng cao mỗi năm, phục vụ các dự án xây dựng lớn trên toàn quốc.",
+      "paragraph3": "Sự tận tâm của chúng tôi đối với các hoạt động bền vững và trách nhiệm môi trường giúp chúng tôi nổi bật trong ngành, đảm bảo rằng mỗi viên gạch chúng tôi sản xuất đều đáp ứng các tiêu chuẩn cao nhất về chất lượng và thân thiện với môi trường."
+    },
+    "values": {
+      "subtitle": "GIÁ TRỊ CỦA CHÚNG TÔI",
+      "title": "Điều thúc đẩy chúng tôi",
+      "description": "Các giá trị cốt lõi của chúng tôi định hướng mọi việc chúng tôi làm, từ sản xuất đến dịch vụ khách hàng",
+      "quality": {
+        "title": "Chất lượng xuất sắc",
+        "desc": "Tiêu chuẩn không thỏa hiệp trong mọi sản phẩm chúng tôi sản xuất"
+      },
+      "customer": {
+        "title": "Tập trung khách hàng",
+        "desc": "Xây dựng mối quan hệ lâu dài thông qua dịch vụ xuất sắc"
+      },
+      "sustainability": {
+        "title": "Bền vững",
+        "desc": "Cam kết trách nhiệm môi trường trong mọi hoạt động"
+      },
+      "innovation": {
+        "title": "Đổi mới",
+        "desc": "Liên tục cải tiến thông qua công nghệ và nghiên cứu"
+      }
+    },
+    "milestones": {
+      "subtitle": "HÀNH TRÌNH CỦA CHÚNG TÔI",
+      "title": "Các mốc quan trọng",
+      "founded": {
+        "title": "Thành lập công ty",
+        "desc": "Bắt đầu hoạt động với tầm nhìn cách mạng hóa sản xuất gạch tại Việt Nam"
+      },
+      "expansion": {
+        "title": "Mở rộng lớn",
+        "desc": "Khai trương nhà máy sản xuất thứ hai và tăng gấp đôi công suất sản xuất"
+      },
+      "export": {
+        "title": "Thị trường xuất khẩu",
+        "desc": "Bắt đầu xuất khẩu ra thị trường quốc tế trên khắp Đông Nam Á"
+      },
+      "technology": {
+        "title": "Nâng cấp công nghệ",
+        "desc": "Đầu tư vào công nghệ sản xuất tự động hóa tiên tiến"
+      },
+      "leader": {
+        "title": "Dẫn đầu ngành",
+        "desc": "Được công nhận là một trong những nhà sản xuất gạch hàng đầu Việt Nam"
+      }
+    },
+    "cta": {
+      "title": "Sẵn sàng hợp tác?",
+      "subtitle": "Hãy thảo luận về cách gạch cao cấp của chúng tôi có thể nâng tầm dự án tiếp theo của bạn",
+      "products": "Xem sản phẩm",
+      "contact": "Liên hệ"
+    }
+  },
+  "Partners": {
+    "hero": {
+      "badge": "Xây dựng cùng nhau",
+      "title": "Đối tác của chúng tôi",
+      "subtitle": "Hợp tác với các công ty hàng đầu trong ngành để mang lại sự xuất sắc trong mọi dự án"
+    },
+    "stats": {
+      "partners": "Đối tác chiến lược",
+      "countries": "Quốc gia",
+      "years": "Năm hợp tác",
+      "projects": "Dự án chung"
+    },
+    "section": {
+      "trusted": "Được tin tưởng bởi",
+      "title": "Đối tác chiến lược",
+      "desc": "Chúng tôi làm việc với những đơn vị tốt nhất trong ngành để mang lại kết quả xuất sắc"
+    },
+    "benefits": {
+      "subtitle": "Lợi ích đối tác",
+      "title": "Tại sao hợp tác với chúng tôi",
+      "desc": "Lợi ích độc quyền và hỗ trợ cho các đối tác quý giá của chúng tôi",
+      "quality": {
+        "title": "Đảm bảo chất lượng",
+        "desc": "Đảm bảo sản phẩm chất lượng cao cấp với chứng nhận quốc tế"
+      },
+      "pricing": {
+        "title": "Giá cạnh tranh",
+        "desc": "Mức giá tốt nhất thị trường với điều khoản thanh toán linh hoạt cho đối tác"
+      },
+      "support": {
+        "title": "Hỗ trợ kỹ thuật",
+        "desc": "Đội ngũ kỹ thuật chuyên dụng để tư vấn và hỗ trợ dự án"
+      },
+      "service": {
+        "title": "Dịch vụ ưu tiên",
+        "desc": "Giao hàng nhanh chóng và quyền truy cập ưu tiên vào các dòng sản phẩm mới"
+      }
+    },
+    "testimonials": {
+      "subtitle": "Đánh giá",
+      "title": "Đối tác nói gì về chúng tôi"
+    },
+    "cta": {
+      "badge": "Tham gia",
+      "title": "Trở thành đối tác của chúng tôi",
+      "subtitle": "Hãy cùng nhau xây dựng mối quan hệ đối tác thành công và tạo ra các dự án xuất sắc",
+      "contact": "Liên hệ",
+      "products": "Xem sản phẩm"
+    }
+  },
+  "Products": {
+    "title": "Sản phẩm của chúng tôi",
+    "subtitle": "CHẤT LƯỢNG CAO CẤP",
+    "desc": "Khám phá dòng sản phẩm gạch chất lượng cao đa dạng cho mọi nhu cầu xây dựng của bạn",
+    "all": "Tất cả sản phẩm",
+    "standard": "Tiêu chuẩn",
+    "decorative": "Trang trí",
+    "special": "Đặc biệt",
+    "filter": "Lọc",
+    "filter_options": "Tùy chọn lọc",
+    "category": "Danh mục",
+    "price_range": "Khoảng giá",
+    "sort_by": "Sắp xếp theo",
+    "all_prices": "Tất cả giá",
+    "sort_default": "Mặc định",
+    "sort_price_asc": "Giá: Thấp đến cao",
+    "sort_price_desc": "Giá: Cao đến thấp",
+    "sort_name": "Tên: A-Z",
+    "search_placeholder": "Tìm kiếm sản phẩm...",
+    "active_filters": "Bộ lọc đang áp dụng",
+    "clear_all": "Xóa tất cả",
+    "showing": "Hiển thị",
+    "of": "trong số",
+    "products_count": "sản phẩm",
+    "price": "Giá",
+    "add": "Thêm vào giỏ",
+    "added": "Đã thêm",
+    "no_products": "Không tìm thấy sản phẩm",
+    "previous": "Trước",
+    "next": "Tiếp",
+    "solid_brick": {
+      "name": "Gạch đặc",
+      "desc": "Chịu lực siêu cao, hoàn hảo cho tường chịu lực"
+    },
+    "two_hole_brick": {
+      "name": "Gạch 2 lỗ",
+      "desc": "Trọng lượng nhẹ với khả năng cách nhiệt tuyệt vời"
+    },
+    "four_hole_brick": {
+      "name": "Gạch 4 lỗ",
+      "desc": "Tối ưu cho vách ngăn với khả năng cách âm vượt trội"
+    },
+    "decorative_brick": {
+      "name": "Gạch trang trí",
+      "desc": "Thẩm mỹ cao với họa tiết đa dạng và màu sắc tự nhiên"
+    },
+    "fire_brick": {
+      "name": "Gạch chịu lửa",
+      "desc": "Chịu nhiệt lên đến 1200°C, lý tưởng cho lò nung"
+    },
+    "paving_brick": {
+      "name": "Gạch lát nền",
+      "desc": "Bề mặt chống trơn, chịu lực cao cho sử dụng ngoài trời"
+    },
+    "hollow_brick": {
+      "name": "Gạch rỗng",
+      "desc": "Siêu nhẹ, tiết kiệm và dễ thi công"
+    },
+    "facing_brick": {
+      "name": "Gạch ốp mặt",
+      "desc": "Bề mặt hoàn thiện đẹp, không cần sơn"
+    }
+  },
+  "Footer": {
+    "desc": "Nhà sản xuất gạch xây dựng hàng đầu Việt Nam với hơn 25 năm kinh nghiệm",
+    "contact": {
+      "address": "123 Đường Nguyễn Văn Linh, Quận 7, TP. Hồ Chí Minh, Việt Nam",
+      "phone": "+84 28 1234 5678",
+      "email": "info@ceramicamasonry.vn"
+    },
+    "resources": {
+      "title": "Tài nguyên",
+      "tech_docs": "Tài liệu kỹ thuật",
+      "certifications": "Chứng nhận",
+      "install_guide": "Hướng dẫn lắp đặt"
+    },
+    "policies": {
+      "title": "Chính sách",
+      "privacy": "Chính sách bảo mật",
+      "terms": "Điều khoản sử dụng",
+      "warranty": "Chính sách bảo hành"
+    },
+    "commitment": {
+      "title": "Cam kết",
+      "environment": "Bảo vệ môi trường",
+      "social": "Trách nhiệm xã hội",
+      "eco_project": "Dự án xanh"
+    },
+    "social": {
+      "follow": "Theo dõi chúng tôi"
+    },
+    "copyright": "© 2024 Ceramica Masonry. Bảo lưu mọi quyền."
+  },
+  "Privacy": {
+    "title": "Chính sách bảo mật",
+    "subtitle": "Chúng tôi cam kết bảo vệ quyền riêng tư và dữ liệu cá nhân của bạn",
+    "lastUpdated": "Cập nhật lần cuối: 06/05/2026",
+    "intro": {
+      "title": "Giới thiệu",
+      "content": "Ceramica Masonry cam kết bảo vệ quyền riêng tư của bạn. Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn khi bạn sử dụng trang web và dịch vụ của chúng tôi."
+    },
+    "collection": {
+      "title": "Thông tin chúng tôi thu thập",
+      "content": "Chúng tôi có thể thu thập các loại thông tin sau:",
+      "list": {
+        "personal": "Thông tin cá nhân: Họ tên, địa chỉ email, số điện thoại",
+        "contact": "Thông tin liên hệ: Địa chỉ giao hàng, địa chỉ thanh toán",
+        "transaction": "Thông tin giao dịch: Lịch sử đơn hàng, phương thức thanh toán",
+        "technical": "Dữ liệu kỹ thuật: Địa chỉ IP, loại trình duyệt, hệ điều hành"
+      }
+    },
+    "usage": {
+      "title": "Cách chúng tôi sử dụng thông tin",
+      "content": "Chúng tôi sử dụng thông tin của bạn để:",
+      "list": {
+        "process": "Xử lý đơn hàng và giao hàng sản phẩm của bạn",
+        "improve": "Cải thiện dịch vụ và trải nghiệm người dùng",
+        "communicate": "Giao tiếp với bạn về đơn hàng và cập nhật sản phẩm",
+        "comply": "Tuân thủ các nghĩa vụ pháp lý và quy định"
+      }
+    },
+    "protection": {
+      "title": "Bảo vệ dữ liệu",
+      "content": "Chúng tôi thực hiện các biện pháp bảo mật kỹ thuật và tổ chức phù hợp để bảo vệ dữ liệu cá nhân của bạn khỏi truy cập trái phép, mất mát hoặc tiết lộ. Dữ liệu của bạn được mã hóa và lưu trữ trên các máy chủ an toàn."
+    },
+    "rights": {
+      "title": "Quyền của bạn",
+      "content": "Bạn có các quyền sau đối với dữ liệu cá nhân của mình:",
+      "list": {
+        "access": "Quyền truy cập và nhận bản sao dữ liệu cá nhân của bạn",
+        "correct": "Quyền yêu cầu sửa chữa thông tin không chính xác",
+        "delete": "Quyền yêu cầu xóa dữ liệu cá nhân của bạn",
+        "restrict": "Quyền hạn chế xử lý dữ liệu cá nhân của bạn"
+      }
+    },
+    "contact": {
+      "title": "Liên hệ với chúng tôi",
+      "content": "Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này hoặc muốn thực hiện quyền của mình, vui lòng liên hệ:",
+      "email": "privacy@ceramicamasonry.vn",
+      "phone": "+84 28 1234 5678"
+    }
+  },
+  "Terms": {
+    "title": "Điều khoản sử dụng",
+    "subtitle": "Vui lòng đọc kỹ các điều khoản và điều kiện trước khi sử dụng dịch vụ của chúng tôi",
+    "lastUpdated": "Cập nhật lần cuối: 06/05/2026",
+    "intro": {
+      "title": "Chấp nhận điều khoản",
+      "content": "Bằng cách truy cập và sử dụng trang web Ceramica Masonry, bạn đồng ý tuân thủ và bị ràng buộc bởi các điều khoản và điều kiện sử dụng sau đây. Nếu bạn không đồng ý với bất kỳ phần nào của các điều khoản này, vui lòng không sử dụng trang web của chúng tôi."
+    },
+    "acceptance": {
+      "title": "Phạm vi áp dụng",
+      "content": "Các điều khoản này áp dụng cho tất cả người dùng trang web, bao gồm nhưng không giới hạn ở khách truy cập, khách hàng, đối tác và nhà cung cấp nội dung."
+    },
+    "services": {
+      "title": "Dịch vụ của chúng tôi",
+      "content": "Ceramica Masonry cung cấp các dịch vụ sau:",
+      "list": {
+        "products": "Bán sản phẩm gạch xây dựng chất lượng cao",
+        "consultation": "Tư vấn kỹ thuật và giải pháp xây dựng",
+        "delivery": "Dịch vụ giao hàng và lắp đặt",
+        "support": "Hỗ trợ khách hàng và bảo hành sản phẩm"
+      }
+    },
+    "obligations": {
+      "title": "Nghĩa vụ người dùng",
+      "content": "Khi sử dụng dịch vụ của chúng tôi, bạn đồng ý:",
+      "list": {
+        "accurate": "Cung cấp thông tin chính xác và đầy đủ",
+        "lawful": "Sử dụng dịch vụ cho mục đích hợp pháp",
+        "respect": "Tôn trọng quyền sở hữu trí tuệ của chúng tôi",
+        "secure": "Bảo mật thông tin tài khoản của bạn"
+      }
+    },
+    "prohibited": {
+      "title": "Hành vi bị cấm",
+      "content": "Bạn không được:",
+      "list": {
+        "illegal": "Sử dụng dịch vụ cho mục đích bất hợp pháp",
+        "infringe": "Vi phạm quyền sở hữu trí tuệ của bất kỳ bên nào",
+        "harm": "Gây hại cho hệ thống hoặc người dùng khác",
+        "interfere": "Can thiệp vào hoạt động bình thường của dịch vụ"
+      }
+    },
+    "liability": {
+      "title": "Giới hạn trách nhiệm",
+      "content": "Ceramica Masonry không chịu trách nhiệm cho bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên hoặc hậu quả phát sinh từ việc sử dụng hoặc không thể sử dụng dịch vụ của chúng tôi, trừ khi được quy định bởi pháp luật."
+    },
+    "changes": {
+      "title": "Thay đổi điều khoản",
+      "content": "Chúng tôi có quyền sửa đổi các điều khoản này bất kỳ lúc nào. Các thay đổi sẽ có hiệu lực ngay khi được đăng trên trang web. Việc bạn tiếp tục sử dụng dịch vụ sau khi có thay đổi đồng nghĩa với việc bạn chấp nhận các điều khoản mới."
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "content": "Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui lòng liên hệ:",
+      "email": "legal@ceramicamasonry.vn",
+      "phone": "+84 28 1234 5678"
+    }
+  },
+  "Contact": {
+    "badge": "Liên hệ với chúng tôi",
+    "title": "Hãy kết nối với chúng tôi",
+    "subtitle": "Chúng tôi luôn sẵn sàng lắng nghe và hỗ trợ bạn. Liên hệ ngay để được tư vấn!",
+    "info": {
+      "address": {
+        "title": "Địa chỉ văn phòng",
+        "content": "123 Đường Nguyễn Văn Linh, Quận 7, TP. Hồ Chí Minh, Việt Nam"
+      },
+      "phone": {
+        "title": "Số điện thoại"
+      },
+      "email": {
+        "title": "Email"
+      }
+    },
+    "hours": {
+      "title": "Giờ làm việc",
+      "weekdays": "Thứ 2 - Thứ 6",
+      "saturday": "Thứ 7",
+      "sunday": "Chủ nhật",
+      "closed": "Nghỉ"
+    },
+    "map": {
+      "title": "Bản đồ"
+    },
+    "form": {
+      "title": "Gửi tin nhắn cho chúng tôi",
+      "name": "Họ và tên",
+      "namePlaceholder": "Nhập họ và tên của bạn",
+      "email": "Email",
+      "emailPlaceholder": "email@example.com",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "0909 000 000",
+      "subject": "Tiêu đề",
+      "subjectPlaceholder": "Bạn muốn hỏi về điều gì?",
+      "message": "Nội dung",
+      "messagePlaceholder": "Nhập nội dung tin nhắn của bạn...",
+      "submit": "Gửi tin nhắn"
+    }
+  },
+  "Cart": {
+    "title": "Giỏ hàng",
+    "item": "sản phẩm",
+    "items": "sản phẩm",
+    "empty": "Giỏ hàng trống",
+    "empty_desc": "Hãy thêm sản phẩm vào giỏ hàng để tiếp tục mua sắm",
+    "continue_shopping": "Tiếp tục mua sắm",
+    "remove": "Xóa",
+    "subtotal": "Tạm tính",
+    "clear_cart": "Xóa giỏ hàng",
+    "items_count": "Số lượng",
+    "shipping": "Phí vận chuyển",
+    "free": "Miễn phí",
+    "total": "Tổng cộng",
+    "vat_included": "Đã bao gồm VAT",
+    "checkout": "Thanh toán"
+  },
+  "Checkout": {
+    "title": "Thanh toán",
+    "subtitle": "Vui lòng điền đầy đủ thông tin để hoàn tất đơn hàng",
+    "items": "sản phẩm",
+    "emptyCart": "Giỏ hàng trống",
+    "emptyCartDesc": "Bạn chưa có sản phẩm nào trong giỏ hàng",
+    "continueShopping": "Tiếp tục mua sắm",
+    "personalInfo": "Thông tin cá nhân",
+    "fullName": "Họ và tên",
+    "fullNamePlaceholder": "Nhập họ và tên của bạn",
+    "phone": "Số điện thoại",
+    "phonePlaceholder": "0909 000 000",
+    "email": "Email",
+    "emailPlaceholder": "email@example.com",
+    "deliveryAddress": "Địa chỉ giao hàng",
+    "address": "Địa chỉ",
+    "addressPlaceholder": "Số nhà, tên đường",
+    "city": "Tỉnh/Thành phố",
+    "cityPlaceholder": "Chọn tỉnh/thành phố",
+    "district": "Quận/Huyện",
+    "districtPlaceholder": "Chọn quận/huyện",
+    "ward": "Phường/Xã",
+    "wardPlaceholder": "Chọn phường/xã",
+    "paymentMethod": "Phương thức thanh toán",
+    "cod": "Thanh toán khi nhận hàng (COD)",
+    "codDesc": "Thanh toán bằng tiền mặt khi nhận hàng",
+    "bank": "Chuyển khoản ngân hàng",
+    "bankDesc": "Chuyển khoản qua tài khoản ngân hàng",
+    "notes": "Ghi chú",
+    "notesPlaceholder": "Ghi chú thêm cho đơn hàng (tùy chọn)",
+    "orderSummary": "Tóm tắt đơn hàng",
+    "subtotal": "Tạm tính",
+    "shipping": "Phí vận chuyển",
+    "free": "Miễn phí",
+    "total": "Tổng cộng",
+    "vat": "Đã bao gồm VAT",
+    "placeOrder": "Đặt hàng",
+    "remove": "Xóa",
+    "success": {
+      "title": "Đặt hàng thành công!",
+      "message": "Cảm ơn bạn đã đặt hàng. Chúng tôi sẽ liên hệ với bạn sớm nhất.",
+      "orderNumber": "Mã đơn hàng",
+      "backHome": "Về trang chủ",
+      "continue": "Tiếp tục mua sắm"
+    },
+    "errors": {
+      "fullName": "Vui lòng nhập họ và tên",
+      "phone": "Vui lòng nhập số điện thoại",
+      "phoneInvalid": "Số điện thoại không hợp lệ",
+      "email": "Vui lòng nhập email",
+      "emailInvalid": "Email không hợp lệ",
+      "address": "Vui lòng nhập địa chỉ",
+      "city": "Vui lòng chọn tỉnh/thành phố",
+      "district": "Vui lòng chọn quận/huyện"
+    }
+  },
+  "Admin": {
+    "adminPanel": "Quản trị viên",
+    "dashboard": "Tổng quan",
+    "products": "Sản phẩm",
+    "news": "Tin tức",
+    "logout": "Đăng xuất",
+    "login": "Đăng nhập",
+    "loginSubtitle": "Nhập mật khẩu để truy cập",
+    "password": "Mật khẩu",
+    "enterPassword": "Nhập mật khẩu",
+    "invalidPassword": "Mật khẩu không đúng",
+    "loginError": "Đăng nhập thất bại",
+    "totalProducts": "Tổng sản phẩm",
+    "totalNews": "Tổng tin tức",
+    "status": "Trạng thái",
+    "active": "Hoạt động",
+    "quickActions": "Thao tác nhanh",
+    "addProduct": "Thêm sản phẩm",
+    "addProductDesc": "Thêm sản phẩm mới vào danh mục",
+    "addNews": "Thêm tin tức",
+    "addNewsDesc": "Đăng bài viết mới",
+    "editProduct": "Chỉnh sửa sản phẩm",
+    "editNews": "Chỉnh sửa tin tức",
+    "productId": "Mã sản phẩm",
+    "productIdHint": "Mã định danh duy nhất, không có dấu cách (vd: solid_brick)",
+    "productName": "Tên sản phẩm",
+    "productDesc": "Mô tả sản phẩm",
+    "articleId": "Mã bài viết",
+    "articleIdHint": "Mã định danh duy nhất, dùng dấu gạch ngang (vd: sustainable-production)",
+    "articleTitle": "Tiêu đề bài viết",
+    "articleExcerpt": "Mô tả ngắn",
+    "price": "Giá",
+    "category": "Danh mục",
+    "standard": "Tiêu chuẩn",
+    "decorative": "Trang trí",
+    "special": "Đặc biệt",
+    "badge": "Nhãn",
+    "productImage": "Hình ảnh sản phẩm",
+    "articleImage": "Hình ảnh bài viết",
+    "specs": "Thông số",
+    "spec": "Thông số",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "image": "Hình ảnh",
+    "actions": "Thao tác",
+    "confirmDelete": "Bạn có chắc muốn xóa?",
+    "deleteError": "Xóa thất bại",
+    "saveError": "Lưu thất bại",
+    "clickToUpload": "Nhấn để tải lên",
+    "imageFormats": "PNG, JPG, GIF (tối đa 10MB)",
+    "uploading": "Đang tải lên...",
+    "uploadError": "Tải lên thất bại",
+    "author": "Tác giả",
+    "date": "Ngày đăng",
+    "featured": "Nổi bật",
+    "sustainability": "Bền vững",
+    "company": "Công ty",
+    "technology": "Công nghệ",
+    "awards": "Giải thưởng",
+    "community": "Cộng đồng",
+    "content": "Nội dung",
+    "showing": "Hiển thị",
+    "of": "trong số",
+    "previous": "Trước",
+    "next": "Tiếp"
+  }
+}

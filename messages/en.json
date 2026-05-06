@@ -1,0 +1,666 @@
+{
+  "Navigation": {
+    "products": "Products",
+    "projects": "Projects",
+    "about": "About",
+    "partners": "Partners",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "Stepping Firmly in Tradition, Creating the Future",
+    "subtitle": "Ceramica Masonry - Comprehensive, quality, and timeless brick solutions for all architectural projects.",
+    "explore_btn": "EXPLORE PRODUCTS",
+    "contact_btn": "CONTACT FOR ADVICE"
+  },
+  "FeaturedProducts": {
+    "title": "Featured Products",
+    "subtitle": "OUR MATERIALS",
+    "see_all": "See all products",
+    "solid_brick": {
+      "name": "Solid Brick",
+      "desc": "High bearing capacity, perfect waterproof for load-bearing and strong walls.",
+      "tags": ["Eco-friendly", "High Density"]
+    },
+    "two_hole_brick": {
+      "name": "2-Hole Brick",
+      "desc": "Light weight, excellent cooling, standard building material for walls.",
+      "tags": ["Insulation", "Standard"]
+    },
+    "four_hole_brick": {
+      "name": "4-Hole Brick",
+      "desc": "Optimal solution for large walls, outstanding sound insulation.",
+      "tags": ["Eco-friendly", "Versatile"]
+    },
+    "decorative_brick": {
+      "name": "Decorative Brick",
+      "desc": "Aesthetic touch for diverse architecture with classic style.",
+      "tags": ["Design-led", "Eco-friendly"]
+    }
+  },
+  "Projects": {
+    "title": "Typical Projects",
+    "subtitle": "OUR MASTERPIECES",
+    "desc": "We are proud to accompany iconic projects. From high-end residential complexes to modern industrial zones nationwide.",
+    "project1": "SkyLine Central Apartment",
+    "project2": "Delta-X Industrial Complex",
+    "project3": "The Heritage Stone Villa",
+    "project4": "Modern Shopping Mall",
+    "project5": "Luxury Resort Complex",
+    "project6": "Residential Tower",
+    "locations": {
+      "hcm": "District 1, Ho Chi Minh City",
+      "binhduong": "Ben Cat, Binh Duong",
+      "hanoi": "Hoa Lac, Hanoi",
+      "danang": "Hai Chau, Da Nang",
+      "nhatrang": "Cam Ranh, Nha Trang"
+    },
+    "stats": {
+      "completed": "Completed Projects",
+      "clients": "Happy Clients",
+      "awards": "Awards Won",
+      "cities": "Cities"
+    },
+    "portfolio": {
+      "badge": "Our Portfolio",
+      "title": "Featured Projects",
+      "desc": "Explore our diverse portfolio of successful projects across Vietnam"
+    },
+    "viewProject": "View Project",
+    "cta": {
+      "badge": "Start Your Project",
+      "title": "Ready to Build Your Dream?",
+      "subtitle": "Let's discuss your project and bring your vision to life with our expertise",
+      "contact": "Contact Us",
+      "products": "View Products"
+    }
+  },
+  "Team": {
+    "title": "Expert Team",
+    "subtitle": "OUR EXPERTISE",
+    "desc": "The people behind the outstanding quality of Ceramica Masonry, combining traditional experience with modern production techniques.",
+    "member1": {
+      "name": "Nguyen Van An",
+      "role": "CHIEF ENGINEER",
+      "desc": "With 20 years of experience in the construction materials industry, he leads the technical and product development team."
+    },
+    "member2": {
+      "name": "Le Thi Binh",
+      "role": "PRODUCTION DIRECTOR",
+      "desc": "The expert operating the leading modern production line, strictly ensuring output quality."
+    },
+    "member3": {
+      "name": "Tran Minh Cuong",
+      "role": "QUALITY CONTROL",
+      "desc": "Directly monitoring physical testing processes, ensuring absolute durability for bricks."
+    },
+    "member4": {
+      "name": "Pham Thu Dung",
+      "role": "MATERIALS EXPERT",
+      "desc": "Researching and developing new artistic brick lines with high aesthetic applications."
+    }
+  },
+  "News": {
+    "title": "Latest News",
+    "subtitle": "INDUSTRY INSIGHTS",
+    "see_all": "Read All News",
+    "previous": "Previous",
+    "next": "Next",
+    "read_more": "Read More",
+    "featured": "Featured",
+    "all": "All",
+    "sustainability": "Sustainability",
+    "company": "Company",
+    "technology": "Technology",
+    "awards": "Awards",
+    "community": "Community",
+    "search_placeholder": "Search news...",
+    "no_results": "No results found",
+    "news1": {
+      "date": "12/10/2023",
+      "title": "Trend of using unburnt bricks in sustainable architecture",
+      "desc": "Unburnt bricks are becoming a popular material in modern architectural designs due to their high durability, heat resistance and environmental friendliness...",
+      "read_more": "READ MORE"
+    },
+    "news2": {
+      "date": "05/11/2023",
+      "title": "Modern brick technology reduces 30% emissions",
+      "desc": "Ceramica Masonry applies new production processes to help reduce carbon emissions, safe for the environment and construction areas...",
+      "read_more": "READ MORE"
+    },
+    "news3": {
+      "date": "22/11/2023",
+      "title": "Construction techniques with 4-hole bricks with optimal efficiency",
+      "desc": "Instructions from experts on how to mix mortar and standard mortar technique to increase bearing capacity for walls built with 4-hole bricks...",
+      "read_more": "READ MORE"
+    }
+  },
+  "CTA": {
+    "title": "Start your project today",
+    "subtitle": "Our technical team is ready to support consulting on the most optimal solutions for all your construction needs.",
+    "quote_btn": "GET A QUOTE",
+    "contact_btn": "TECHNICAL CONTACT"
+  },
+  "Footer": {
+    "desc": "Leading the production technology of high quality unburnt bricks, sustainably committed to you and the environment.",
+    "resources": {
+      "title": "RESOURCES",
+      "tech_docs": "Technical Docs",
+      "certifications": "Certifications",
+      "install_guide": "Installation Guide"
+    },
+    "policies": {
+      "title": "POLICIES",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "warranty": "Warranty"
+    },
+    "commitment": {
+      "title": "COMMITMENT",
+      "environment": "Environmental Impact",
+      "social": "Social Responsibility",
+      "eco_project": "Eco-Brick Project"
+    },
+    "copyright": "© 2024 Ceramica Masonry. Produced by Masonry."
+  },
+  "About": {
+    "hero": {
+      "badge": "Established 1998",
+      "title": "About Ceramica Masonry",
+      "subtitle": "Leading manufacturer of premium quality bricks with 25+ years of excellence in the construction materials industry"
+    },
+    "stats": {
+      "years": "Years of Experience",
+      "employees": "Employees",
+      "countries": "Countries",
+      "awards": "Awards"
+    },
+    "story": {
+      "subtitle": "OUR STORY",
+      "title": "Building Excellence Since 1998",
+      "paragraph1": "Founded in 1998, Ceramica Masonry has grown from a small local manufacturer to one of Vietnam's leading brick producers. Our journey has been marked by continuous innovation and unwavering commitment to quality.",
+      "paragraph2": "With state-of-the-art production facilities and a team of experienced professionals, we produce millions of high-quality bricks annually, serving major construction projects across the country.",
+      "paragraph3": "Our dedication to sustainable practices and environmental responsibility sets us apart in the industry, ensuring that every brick we produce meets the highest standards of quality and eco-friendliness."
+    },
+    "values": {
+      "subtitle": "OUR VALUES",
+      "title": "What Drives Us",
+      "description": "Our core values guide everything we do, from production to customer service",
+      "quality": {
+        "title": "Quality Excellence",
+        "desc": "Uncompromising standards in every product we manufacture"
+      },
+      "customer": {
+        "title": "Customer Focus",
+        "desc": "Building lasting relationships through exceptional service"
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "desc": "Committed to environmental responsibility in all operations"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "desc": "Continuously improving through technology and research"
+      }
+    },
+    "milestones": {
+      "subtitle": "OUR JOURNEY",
+      "title": "Key Milestones",
+      "founded": {
+        "title": "Company Founded",
+        "desc": "Started operations with a vision to revolutionize brick manufacturing in Vietnam"
+      },
+      "expansion": {
+        "title": "Major Expansion",
+        "desc": "Opened second production facility and doubled manufacturing capacity"
+      },
+      "export": {
+        "title": "Export Markets",
+        "desc": "Began exporting to international markets across Southeast Asia"
+      },
+      "technology": {
+        "title": "Technology Upgrade",
+        "desc": "Invested in cutting-edge automated production technology"
+      },
+      "leader": {
+        "title": "Industry Leader",
+        "desc": "Recognized as one of Vietnam's top brick manufacturers"
+      }
+    },
+    "cta": {
+      "title": "Ready to Work Together?",
+      "subtitle": "Let's discuss how our premium bricks can elevate your next project",
+      "products": "View Products",
+      "contact": "Contact Us"
+    }
+  },
+  "Partners": {
+    "hero": {
+      "badge": "Building Together",
+      "title": "Our Partners",
+      "subtitle": "Collaborating with industry leaders to deliver excellence in every project"
+    },
+    "stats": {
+      "partners": "Strategic Partners",
+      "countries": "Countries",
+      "years": "Years Partnership",
+      "projects": "Joint Projects"
+    },
+    "section": {
+      "trusted": "Trusted By",
+      "title": "Strategic Partners",
+      "desc": "We work with the best in the industry to deliver outstanding results"
+    },
+    "benefits": {
+      "subtitle": "Partnership Benefits",
+      "title": "Why Partner With Us",
+      "desc": "Exclusive benefits and support for our valued partners",
+      "quality": {
+        "title": "Quality Assurance",
+        "desc": "Guaranteed premium quality products with international certifications"
+      },
+      "pricing": {
+        "title": "Competitive Pricing",
+        "desc": "Best market rates with flexible payment terms for partners"
+      },
+      "support": {
+        "title": "Technical Support",
+        "desc": "Dedicated technical team for consultation and project support"
+      },
+      "service": {
+        "title": "Priority Service",
+        "desc": "Fast delivery and priority access to new product lines"
+      }
+    },
+    "testimonials": {
+      "subtitle": "Testimonials",
+      "title": "What Our Partners Say"
+    },
+    "cta": {
+      "badge": "Join Us",
+      "title": "Become Our Partner",
+      "subtitle": "Let's build a successful partnership together and create outstanding projects",
+      "contact": "Contact Us",
+      "products": "View Products"
+    }
+  },
+  "Products": {
+    "title": "Our Products",
+    "subtitle": "PREMIUM QUALITY",
+    "desc": "Explore our comprehensive range of high-quality bricks for all your construction needs",
+    "all": "All Products",
+    "standard": "Standard",
+    "decorative": "Decorative",
+    "special": "Special",
+    "filter": "Filter",
+    "filter_options": "Filter Options",
+    "category": "Category",
+    "price_range": "Price Range",
+    "sort_by": "Sort By",
+    "all_prices": "All Prices",
+    "sort_default": "Default",
+    "sort_price_asc": "Price: Low to High",
+    "sort_price_desc": "Price: High to Low",
+    "sort_name": "Name: A-Z",
+    "search_placeholder": "Search products...",
+    "active_filters": "Active Filters",
+    "clear_all": "Clear All",
+    "showing": "Showing",
+    "of": "of",
+    "products_count": "products",
+    "price": "Price",
+    "add": "Add to Cart",
+    "added": "Added",
+    "no_products": "No products found",
+    "previous": "Previous",
+    "next": "Next",
+    "solid_brick": {
+      "name": "Solid Brick",
+      "desc": "High bearing capacity, perfect for load-bearing walls"
+    },
+    "two_hole_brick": {
+      "name": "2-Hole Brick",
+      "desc": "Lightweight with excellent thermal insulation"
+    },
+    "four_hole_brick": {
+      "name": "4-Hole Brick",
+      "desc": "Optimal for partition walls with superior sound insulation"
+    },
+    "decorative_brick": {
+      "name": "Decorative Brick",
+      "desc": "Aesthetic appeal with diverse patterns and natural colors"
+    },
+    "fire_brick": {
+      "name": "Fire Brick",
+      "desc": "Heat resistant up to 1200°C, ideal for furnaces"
+    },
+    "paving_brick": {
+      "name": "Paving Brick",
+      "desc": "Anti-slip surface, high load capacity for outdoor use"
+    },
+    "hollow_brick": {
+      "name": "Hollow Brick",
+      "desc": "Ultra-lightweight, economical and easy to install"
+    },
+    "facing_brick": {
+      "name": "Facing Brick",
+      "desc": "Beautiful surface finish, no painting required"
+    }
+  },
+  "Footer": {
+    "desc": "Leading brick manufacturer in Vietnam with over 25 years of experience",
+    "contact": {
+      "address": "123 Nguyen Van Linh Street, District 7, Ho Chi Minh City, Vietnam",
+      "phone": "+84 28 1234 5678",
+      "email": "info@ceramicamasonry.vn"
+    },
+    "resources": {
+      "title": "Resources",
+      "tech_docs": "Technical Documentation",
+      "certifications": "Certifications",
+      "install_guide": "Installation Guide"
+    },
+    "policies": {
+      "title": "Policies",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "warranty": "Warranty Policy"
+    },
+    "commitment": {
+      "title": "Commitment",
+      "environment": "Environmental Protection",
+      "social": "Social Responsibility",
+      "eco_project": "Green Projects"
+    },
+    "social": {
+      "follow": "Follow Us"
+    },
+    "copyright": "© 2024 Ceramica Masonry. All rights reserved."
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "We are committed to protecting your privacy and personal data",
+    "lastUpdated": "Last updated: May 06, 2026",
+    "intro": {
+      "title": "Introduction",
+      "content": "Ceramica Masonry is committed to protecting your privacy. This privacy policy explains how we collect, use, and protect your personal information when you use our website and services."
+    },
+    "collection": {
+      "title": "Information We Collect",
+      "content": "We may collect the following types of information:",
+      "list": {
+        "personal": "Personal information: Name, email address, phone number",
+        "contact": "Contact information: Shipping address, billing address",
+        "transaction": "Transaction information: Order history, payment methods",
+        "technical": "Technical data: IP address, browser type, operating system"
+      }
+    },
+    "usage": {
+      "title": "How We Use Your Information",
+      "content": "We use your information to:",
+      "list": {
+        "process": "Process your orders and deliver products",
+        "improve": "Improve our services and user experience",
+        "communicate": "Communicate with you about orders and product updates",
+        "comply": "Comply with legal obligations and regulations"
+      }
+    },
+    "protection": {
+      "title": "Data Protection",
+      "content": "We implement appropriate technical and organizational security measures to protect your personal data from unauthorized access, loss, or disclosure. Your data is encrypted and stored on secure servers."
+    },
+    "rights": {
+      "title": "Your Rights",
+      "content": "You have the following rights regarding your personal data:",
+      "list": {
+        "access": "Right to access and receive a copy of your personal data",
+        "correct": "Right to request correction of inaccurate information",
+        "delete": "Right to request deletion of your personal data",
+        "restrict": "Right to restrict processing of your personal data"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "If you have any questions about this privacy policy or wish to exercise your rights, please contact:",
+      "email": "privacy@ceramicamasonry.vn",
+      "phone": "+84 28 1234 5678"
+    }
+  },
+  "Terms": {
+    "title": "Terms of Service",
+    "subtitle": "Please read these terms and conditions carefully before using our services",
+    "lastUpdated": "Last updated: May 06, 2026",
+    "intro": {
+      "title": "Acceptance of Terms",
+      "content": "By accessing and using the Ceramica Masonry website, you agree to comply with and be bound by the following terms and conditions of use. If you do not agree with any part of these terms, please do not use our website."
+    },
+    "acceptance": {
+      "title": "Scope of Application",
+      "content": "These terms apply to all users of the website, including but not limited to visitors, customers, partners, and content providers."
+    },
+    "services": {
+      "title": "Our Services",
+      "content": "Ceramica Masonry provides the following services:",
+      "list": {
+        "products": "Sale of high-quality construction brick products",
+        "consultation": "Technical consultation and construction solutions",
+        "delivery": "Delivery and installation services",
+        "support": "Customer support and product warranty"
+      }
+    },
+    "obligations": {
+      "title": "User Obligations",
+      "content": "When using our services, you agree to:",
+      "list": {
+        "accurate": "Provide accurate and complete information",
+        "lawful": "Use the service for lawful purposes only",
+        "respect": "Respect our intellectual property rights",
+        "secure": "Keep your account information secure"
+      }
+    },
+    "prohibited": {
+      "title": "Prohibited Conduct",
+      "content": "You may not:",
+      "list": {
+        "illegal": "Use the service for illegal purposes",
+        "infringe": "Infringe on the intellectual property rights of any party",
+        "harm": "Harm the system or other users",
+        "interfere": "Interfere with the normal operation of the service"
+      }
+    },
+    "liability": {
+      "title": "Limitation of Liability",
+      "content": "Ceramica Masonry shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use or inability to use our services, unless required by law."
+    },
+    "changes": {
+      "title": "Changes to Terms",
+      "content": "We reserve the right to modify these terms at any time. Changes will be effective immediately upon posting on the website. Your continued use of the service after changes constitutes acceptance of the new terms."
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "If you have any questions about these terms, please contact:",
+      "email": "legal@ceramicamasonry.vn",
+      "phone": "+84 28 1234 5678"
+    }
+  },
+  "Contact": {
+    "badge": "Get in Touch",
+    "title": "Let's Connect",
+    "subtitle": "We're always ready to listen and support you. Contact us now for consultation!",
+    "info": {
+      "address": {
+        "title": "Office Address",
+        "content": "123 Nguyen Van Linh Street, District 7, Ho Chi Minh City, Vietnam"
+      },
+      "phone": {
+        "title": "Phone Number"
+      },
+      "email": {
+        "title": "Email"
+      }
+    },
+    "hours": {
+      "title": "Working Hours",
+      "weekdays": "Monday - Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    },
+    "map": {
+      "title": "Map"
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email",
+      "emailPlaceholder": "email@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "0909 000 000",
+      "subject": "Subject",
+      "subjectPlaceholder": "What would you like to ask about?",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message...",
+      "submit": "Send Message"
+    }
+  },
+  "Cart": {
+    "title": "Shopping Cart",
+    "item": "item",
+    "items": "items",
+    "empty": "Your cart is empty",
+    "empty_desc": "Add products to your cart to continue shopping",
+    "continue_shopping": "Continue Shopping",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "clear_cart": "Clear Cart",
+    "items_count": "Items",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "vat_included": "VAT included",
+    "checkout": "Checkout"
+  },
+  "Checkout": {
+    "title": "Checkout",
+    "subtitle": "Please fill in all information to complete your order",
+    "items": "items",
+    "emptyCart": "Cart is empty",
+    "emptyCartDesc": "You don't have any products in your cart",
+    "continueShopping": "Continue Shopping",
+    "personalInfo": "Personal Information",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "phone": "Phone Number",
+    "phonePlaceholder": "0909 000 000",
+    "email": "Email",
+    "emailPlaceholder": "email@example.com",
+    "deliveryAddress": "Delivery Address",
+    "address": "Address",
+    "addressPlaceholder": "House number, street name",
+    "city": "City/Province",
+    "cityPlaceholder": "Select city/province",
+    "district": "District",
+    "districtPlaceholder": "Select district",
+    "ward": "Ward",
+    "wardPlaceholder": "Select ward",
+    "paymentMethod": "Payment Method",
+    "cod": "Cash on Delivery (COD)",
+    "codDesc": "Pay with cash upon delivery",
+    "bank": "Bank Transfer",
+    "bankDesc": "Transfer via bank account",
+    "notes": "Notes",
+    "notesPlaceholder": "Additional notes for your order (optional)",
+    "orderSummary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "vat": "VAT included",
+    "placeOrder": "Place Order",
+    "remove": "Remove",
+    "success": {
+      "title": "Order Successful!",
+      "message": "Thank you for your order. We will contact you soon.",
+      "orderNumber": "Order Number",
+      "backHome": "Back to Home",
+      "continue": "Continue Shopping"
+    },
+    "errors": {
+      "fullName": "Please enter your full name",
+      "phone": "Please enter your phone number",
+      "phoneInvalid": "Invalid phone number",
+      "email": "Please enter your email",
+      "emailInvalid": "Invalid email",
+      "address": "Please enter your address",
+      "city": "Please select city/province",
+      "district": "Please select district"
+    }
+  },
+  "Admin": {
+    "adminPanel": "Admin Panel",
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "news": "News",
+    "logout": "Logout",
+    "login": "Login",
+    "loginSubtitle": "Enter password to access",
+    "password": "Password",
+    "enterPassword": "Enter password",
+    "invalidPassword": "Invalid password",
+    "loginError": "Login failed",
+    "totalProducts": "Total Products",
+    "totalNews": "Total News",
+    "status": "Status",
+    "active": "Active",
+    "quickActions": "Quick Actions",
+    "addProduct": "Add Product",
+    "addProductDesc": "Add new product to catalog",
+    "addNews": "Add News",
+    "addNewsDesc": "Publish new article",
+    "editProduct": "Edit Product",
+    "editNews": "Edit News",
+    "productId": "Product ID",
+    "productIdHint": "Unique identifier, no spaces (eg: solid_brick)",
+    "productName": "Product Name",
+    "productDesc": "Product Description",
+    "articleId": "Article ID",
+    "articleIdHint": "Unique identifier, use dashes (eg: sustainable-production)",
+    "articleTitle": "Article Title",
+    "articleExcerpt": "Short Description",
+    "price": "Price",
+    "category": "Category",
+    "standard": "Standard",
+    "decorative": "Decorative",
+    "special": "Special",
+    "badge": "Badge",
+    "productImage": "Product Image",
+    "articleImage": "Article Image",
+    "specs": "Specifications",
+    "spec": "Specification",
+    "save": "Save",
+    "cancel": "Cancel",
+    "image": "Image",
+    "actions": "Actions",
+    "confirmDelete": "Are you sure you want to delete?",
+    "deleteError": "Delete failed",
+    "saveError": "Save failed",
+    "clickToUpload": "Click to upload",
+    "imageFormats": "PNG, JPG, GIF (max 10MB)",
+    "uploading": "Uploading...",
+    "uploadError": "Upload failed",
+    "author": "Author",
+    "date": "Date",
+    "featured": "Featured",
+    "sustainability": "Sustainability",
+    "company": "Company",
+    "technology": "Technology",
+    "awards": "Awards",
+    "community": "Community",
+    "content": "Content",
+    "showing": "Showing",
+    "of": "of",
+    "previous": "Previous",
+    "next": "Next"
+  }
+}

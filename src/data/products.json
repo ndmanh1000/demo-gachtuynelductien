@@ -1,0 +1,136 @@
+[
+  {
+    "id": "two_hole_brick",
+    "price": 3200,
+    "image": "/images/product_bricks_1778002110634.png",
+    "category": "standard",
+    "specs": [
+      "200x100x50mm",
+      "Cách nhiệt tốt",
+      "Nhẹ"
+    ]
+  },
+  {
+    "id": "four_hole_brick",
+    "price": 3000,
+    "image": "/images/product_bricks_1778002110634.png",
+    "category": "standard",
+    "badge": "NEW",
+    "specs": [
+      "200x100x50mm",
+      "Siêu nhẹ",
+      "Cách âm"
+    ]
+  },
+  {
+    "id": "decorative_brick",
+    "price": 5500,
+    "image": "/images/product_bricks_1778002110634.png",
+    "category": "decorative",
+    "specs": [
+      "Đa dạng màu sắc",
+      "Bề mặt tinh xảo",
+      "Cao cấp"
+    ]
+  },
+  {
+    "id": "fire_brick",
+    "price": 4200,
+    "image": "/images/product_bricks_1778002110634.png",
+    "category": "special",
+    "specs": [
+      "Chịu nhiệt 1200°C",
+      "Chống cháy",
+      "Bền vững"
+    ]
+  },
+  {
+    "id": "paving_brick",
+    "price": 4800,
+    "image": "/images/product_bricks_1778002110634.png",
+    "category": "special",
+    "specs": [
+      "Chống trơn",
+      "Chịu lực cao",
+      "Thẩm mỹ"
+    ]
+  },
+  {
+    "id": "hollow_brick",
+    "price": 2800,
+    "image": "/images/product_bricks_1778002110634.png",
+    "category": "standard",
+    "specs": [
+      "Siêu nhẹ",
+      "Tiết kiệm",
+      "Dễ thi công"
+    ]
+  },
+  {
+    "id": "facing_brick",
+    "price": 6000,
+    "image": "/images/product_bricks_1778002110634.png",
+    "category": "decorative",
+    "specs": [
+      "Bề mặt đẹp",
+      "Không cần sơn",
+      "Sang trọng"
+    ]
+  },
+  {
+    "id": "mạnh",
+    "name": "mạnh1",
+    "desc": "fwef ewfewf ewfew ew",
+    "price": 500000,
+    "image": "/images/1778033600206_lok1.jpg",
+    "category": "standard",
+    "badge": "HOT",
+    "specs": [
+      "ưqewqeewq",
+      "ewqewqewq",
+      "ewqewqewq"
+    ]
+  },
+  {
+    "id": "rfewfew",
+    "name": "fewfewfew",
+    "desc": "fewfew",
+    "price": 3533533,
+    "image": "",
+    "category": "standard",
+    "badge": "",
+    "specs": [
+      "dưqdwq",
+      "dưqdw",
+      "dưqdwq"
+    ]
+  },
+  {
+    "id": "ddd",
+    "name": "ưqdwqwwq",
+    "desc": "dưqdwqw",
+    "price": 432432432,
+    "image": "",
+    "category": "standard",
+    "badge": "",
+    "specs": [
+      "ewq",
+      "ewqe",
+      "ưqewqe"
+    ]
+  },
+  {
+    "id": "ewqewq",
+    "name": "ewqewq",
+    "desc": "ewqewqe",
+    "price": 42323,
+    "image": "",
+    "category": "standard",
+    "badge": "",
+    "specs": [
+      "ewq",
+      "ewqewq",
+      "ewqewq"
+    ]
+  }
+]

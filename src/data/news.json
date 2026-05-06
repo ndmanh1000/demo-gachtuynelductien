@@ -1,0 +1,52 @@
+[
+  {
+    "id": "new-factory",
+    "category": "company",
+    "image": "/images/product_bricks_1778002110634.png",
+    "featured": false,
+    "date": "2024-03-10",
+    "author": "Lê Thị Bình"
+  },
+  {
+    "id": "award-winning",
+    "category": "awards",
+    "image": "/images/product_bricks_1778002110634.png",
+    "featured": false,
+    "date": "2024-03-05",
+    "author": "Trần Minh Cường"
+  },
+  {
+    "id": "innovation-tech",
+    "category": "technology",
+    "image": "/images/product_bricks_1778002110634.png",
+    "featured": false,
+    "date": "2024-02-28",
+    "author": "Phạm Thu Dung"
+  },
+  {
+    "id": "community-project",
+    "category": "community",
+    "image": "/images/product_bricks_1778002110634.png",
+    "featured": false,
+    "date": "2024-02-20",
+    "author": "Nguyễn Văn An"
+  },
+  {
+    "id": "export-expansion",
+    "category": "company",
+    "image": "/images/product_bricks_1778002110634.png",
+    "featured": false,
+    "date": "2024-02-15",
+    "author": "Lê Thị Bình"
+  },
+  {
+    "id": "gregrer",
+    "title": " gregrere regregre",
+    "excerpt": "gregreg re grer ẻ",
+    "category": "company",
+    "image": "/images/1778033659878_photo_2026-04-16_17-40-37.jpg",
+    "featured": true,
+    "date": "2026-05-06",
+    "author": "mạnh-14"
+  }
+]
