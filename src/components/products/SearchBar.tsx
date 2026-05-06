@@ -15,7 +15,7 @@ export default function SearchBar({ searchQuery, onSearchChange, placeholder }: 
         placeholder={placeholder}
         value={searchQuery}
         onChange={(e) => onSearchChange(e.target.value)}
-        className="w-full pl-12 pr-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:ring-2 focus:ring-[#b84a14]/20 transition-all outline-none"
+        className="w-full pl-12 pr-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:ring-2 focus:ring-[#b84a14]/20 transition-all outline-none text-base"
       />
     </div>
   );

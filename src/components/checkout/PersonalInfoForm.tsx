@@ -28,7 +28,7 @@ export default function PersonalInfoForm({ formData, errors, onChange, t }: Pers
             name="fullName"
             value={formData.fullName}
             onChange={onChange}
-            className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all ${
+            className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all text-base ${
               errors.fullName ? "border-red-500" : "border-gray-300"
             }`}
             placeholder={t("fullNamePlaceholder")}
@@ -47,7 +47,7 @@ export default function PersonalInfoForm({ formData, errors, onChange, t }: Pers
             name="phone"
             value={formData.phone}
             onChange={onChange}
-            className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all ${
+            className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all text-base ${
               errors.phone ? "border-red-500" : "border-gray-300"
             }`}
             placeholder="0912 345 678"
@@ -66,7 +66,7 @@ export default function PersonalInfoForm({ formData, errors, onChange, t }: Pers
             name="email"
             value={formData.email}
             onChange={onChange}
-            className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all ${
+            className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all text-base ${
               errors.email ? "border-red-500" : "border-gray-300"
             }`}
             placeholder="example@email.com"

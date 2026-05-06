@@ -135,7 +135,7 @@ export default function CheckoutForm() {
                   value={formData.notes}
                   onChange={handleChange}
                   rows={4}
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all resize-none"
+                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all resize-none text-base"
                   placeholder={t("notesPlaceholder")}
                 />
               </div>

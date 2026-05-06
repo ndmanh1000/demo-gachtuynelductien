@@ -29,7 +29,7 @@ export default function DeliveryAddressForm({ formData, errors, onChange, t }: D
             name="address"
             value={formData.address}
             onChange={onChange}
-            className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all ${
+            className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all text-base ${
               errors.address ? "border-red-500" : "border-gray-300"
             }`}
             placeholder={t("addressPlaceholder")}
@@ -48,7 +48,7 @@ export default function DeliveryAddressForm({ formData, errors, onChange, t }: D
               name="city"
               value={formData.city}
               onChange={onChange}
-              className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all ${
+              className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all text-base ${
                 errors.city ? "border-red-500" : "border-gray-300"
               }`}
             >
@@ -73,7 +73,7 @@ export default function DeliveryAddressForm({ formData, errors, onChange, t }: D
               name="district"
               value={formData.district}
               onChange={onChange}
-              className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all ${
+              className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all text-base ${
                 errors.district ? "border-red-500" : "border-gray-300"
               }`}
               placeholder={t("districtPlaceholder")}
@@ -92,7 +92,7 @@ export default function DeliveryAddressForm({ formData, errors, onChange, t }: D
               name="ward"
               value={formData.ward}
               onChange={onChange}
-              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all"
+              className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[#b84a14] focus:border-transparent transition-all text-base"
               placeholder={t("wardPlaceholder")}
             />
           </div>

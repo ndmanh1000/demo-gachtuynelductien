@@ -81,7 +81,7 @@ export default function ContactModal({ isOpen, onClose, type = 'contact' }: Cont
               value={formData.name}
               onChange={handleChange}
               required
-              className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:outline-none transition-colors"
+              className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:outline-none transition-colors text-base"
               placeholder={t('name_placeholder')}
             />
           </div>
@@ -97,7 +97,7 @@ export default function ContactModal({ isOpen, onClose, type = 'contact' }: Cont
               value={formData.phone}
               onChange={handleChange}
               required
-              className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:outline-none transition-colors"
+              className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:outline-none transition-colors text-base"
               placeholder={t('phone_placeholder')}
             />
           </div>
@@ -112,7 +112,7 @@ export default function ContactModal({ isOpen, onClose, type = 'contact' }: Cont
               name="email"
               value={formData.email}
               onChange={handleChange}
-              className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:outline-none transition-colors"
+              className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:outline-none transition-colors text-base"
               placeholder={t('email_placeholder')}
             />
           </div>
@@ -127,7 +127,7 @@ export default function ContactModal({ isOpen, onClose, type = 'contact' }: Cont
               value={formData.message}
               onChange={handleChange}
               rows={4}
-              className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:outline-none transition-colors resize-none"
+              className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-[#b84a14] focus:outline-none transition-colors resize-none text-base"
               placeholder={t('message_placeholder')}
             />
           </div>
