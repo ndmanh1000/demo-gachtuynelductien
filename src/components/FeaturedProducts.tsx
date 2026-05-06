@@ -1,6 +1,12 @@
+'use client';
+
 import {useTranslations} from 'next-intl';
 import {ArrowRight} from 'lucide-react';
 import {Link} from '@/i18n/routing';
+import {Swiper, SwiperSlide} from 'swiper/react';
+import {Pagination, Autoplay} from 'swiper/modules';
+import 'swiper/css';
+import 'swiper/css/pagination';
 
 export default function FeaturedProducts() {
   const t = useTranslations('FeaturedProducts');
@@ -26,6 +32,34 @@ export default function FeaturedProducts() {
     }
   ];
 
+  const ProductCard = ({p}: {p: typeof products[0]}) => (
+    <div className="group border border-gray-100 rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 bg-white hover:-translate-y-1">
+      <div className="relative aspect-square overflow-hidden bg-gray-50">
+        {p.badge && (
+          <span className="absolute top-4 left-4 bg-[#b84a14] text-white text-[10px] font-bold px-2 py-1 rounded z-10">
+            {p.badge}
+          </span>
+        )}
+        <img
+          src={p.img}
+          alt={t(`${p.id}.name`)}
+          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+        />
+      </div>
+      <div className="p-6">
+        <h3 className="text-lg font-bold text-gray-900 mb-2">{t(`${p.id}.name`)}</h3>
+        <p className="text-sm text-gray-500 mb-4 line-clamp-2">{t(`${p.id}.desc`)}</p>
+        <div className="flex flex-wrap gap-2">
+          {(t.raw(`${p.id}.tags`) as string[]).map((tag, i) => (
+            <span key={i} className="text-xs font-medium text-gray-500 bg-gray-100 px-2 py-1 rounded">
+              {tag}
+            </span>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+
   return (
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -39,33 +73,28 @@ export default function FeaturedProducts() {
           </Link>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        {/* Mobile Swiper */}
+        <div className="md:hidden">
+          <Swiper
+            modules={[Pagination, Autoplay]}
+            spaceBetween={20}
+            slidesPerView={1.2}
+            pagination={{clickable: true}}
+            autoplay={{delay: 3000, disableOnInteraction: false}}
+            className="!pb-12"
+          >
+            {products.map((p) => (
+              <SwiperSlide key={p.id}>
+                <ProductCard p={p} />
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        </div>
+
+        {/* Desktop Grid */}
+        <div className="hidden md:grid grid-cols-2 lg:grid-cols-4 gap-8">
           {products.map((p) => (
-            <div key={p.id} className="group border border-gray-100 rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 bg-white hover:-translate-y-1">
-              <div className="relative aspect-square overflow-hidden bg-gray-50">
-                {p.badge && (
-                  <span className="absolute top-4 left-4 bg-[#b84a14] text-white text-[10px] font-bold px-2 py-1 rounded z-10">
-                    {p.badge}
-                  </span>
-                )}
-                <img 
-                  src={p.img} 
-                  alt={t(`${p.id}.name`)} 
-                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                />
-              </div>
-              <div className="p-6">
-                <h3 className="text-lg font-bold text-gray-900 mb-2">{t(`${p.id}.name`)}</h3>
-                <p className="text-sm text-gray-500 mb-4 line-clamp-2">{t(`${p.id}.desc`)}</p>
-                <div className="flex flex-wrap gap-2">
-                  {(t.raw(`${p.id}.tags`) as string[]).map((tag, i) => (
-                    <span key={i} className="text-xs font-medium text-gray-500 bg-gray-100 px-2 py-1 rounded">
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            </div>
+            <ProductCard key={p.id} p={p} />
           ))}
         </div>
       </div>

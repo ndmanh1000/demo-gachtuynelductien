@@ -1,4 +1,10 @@
+'use client';
+
 import {useTranslations} from 'next-intl';
+import {Swiper, SwiperSlide} from 'swiper/react';
+import {Pagination, Autoplay} from 'swiper/modules';
+import 'swiper/css';
+import 'swiper/css/pagination';
 
 export default function Team() {
   const t = useTranslations('Team');
@@ -10,6 +16,21 @@ export default function Team() {
     { id: 'member4', img: '/images/project_1_1778002255653.png' }
   ];
 
+  const MemberCard = ({m}: {m: typeof members[0]}) => (
+    <div className="text-center">
+      <div className="relative aspect-[3/4] overflow-hidden mb-6 filter grayscale hover:grayscale-0 transition-all duration-500 cursor-pointer">
+        <img
+          src={m.img}
+          alt={t(`${m.id}.name`)}
+          className="w-full h-full object-cover"
+        />
+      </div>
+      <h3 className="text-lg font-bold text-gray-900 mb-1">{t(`${m.id}.name`)}</h3>
+      <p className="text-xs font-bold tracking-wider text-[#b84a14] uppercase mb-4">{t(`${m.id}.role`)}</p>
+      <p className="text-sm text-gray-500 leading-relaxed">{t(`${m.id}.desc`)}</p>
+    </div>
+  );
+
   return (
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -19,20 +40,28 @@ export default function Team() {
           <p className="text-gray-500">{t('desc')}</p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        {/* Mobile Swiper */}
+        <div className="md:hidden">
+          <Swiper
+            modules={[Pagination, Autoplay]}
+            spaceBetween={20}
+            slidesPerView={1.2}
+            pagination={{clickable: true}}
+            autoplay={{delay: 3500, disableOnInteraction: false}}
+            className="!pb-12"
+          >
+            {members.map((m) => (
+              <SwiperSlide key={m.id}>
+                <MemberCard m={m} />
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        </div>
+
+        {/* Desktop Grid */}
+        <div className="hidden md:grid grid-cols-2 lg:grid-cols-4 gap-8">
           {members.map((m) => (
-            <div key={m.id} className="text-center">
-              <div className="relative aspect-[3/4] overflow-hidden mb-6 filter grayscale hover:grayscale-0 transition-all duration-500 cursor-pointer">
-                <img 
-                  src={m.img} 
-                  alt={t(`${m.id}.name`)} 
-                  className="w-full h-full object-cover"
-                />
-              </div>
-              <h3 className="text-lg font-bold text-gray-900 mb-1">{t(`${m.id}.name`)}</h3>
-              <p className="text-xs font-bold tracking-wider text-[#b84a14] uppercase mb-4">{t(`${m.id}.role`)}</p>
-              <p className="text-sm text-gray-500 leading-relaxed">{t(`${m.id}.desc`)}</p>
-            </div>
+            <MemberCard key={m.id} m={m} />
           ))}
         </div>
       </div>
