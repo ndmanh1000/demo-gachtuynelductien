@@ -45,7 +45,7 @@ export default function Team() {
           <Swiper
             modules={[Pagination, Autoplay]}
             spaceBetween={20}
-            slidesPerView={1.2}
+            slidesPerView={1}
             pagination={{clickable: true}}
             autoplay={{delay: 3500, disableOnInteraction: false}}
             className="!pb-12"

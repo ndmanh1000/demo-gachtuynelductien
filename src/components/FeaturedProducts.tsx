@@ -78,7 +78,7 @@ export default function FeaturedProducts() {
           <Swiper
             modules={[Pagination, Autoplay]}
             spaceBetween={20}
-            slidesPerView={1.2}
+            slidesPerView={1}
             pagination={{clickable: true}}
             autoplay={{delay: 3000, disableOnInteraction: false}}
             className="!pb-12"
