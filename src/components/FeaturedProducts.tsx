@@ -97,6 +97,13 @@ export default function FeaturedProducts() {
             <ProductCard key={p.id} p={p} />
           ))}
         </div>
+
+        {/* Mobile View All Link */}
+        <div className="md:hidden mt-6 text-center">
+          <Link href="/products" className="inline-flex items-center text-sm font-semibold text-[#b84a14] hover:text-[#a14010]">
+            {t('see_all')} <ArrowRight className="w-4 h-4 ml-1" />
+          </Link>
+        </div>
       </div>
     </section>
   );

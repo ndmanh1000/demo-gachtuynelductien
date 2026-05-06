@@ -38,7 +38,12 @@ export default function FilterDropdown({
       </button>
 
       {showFilterDropdown && (
-        <div className="absolute top-full right-0 -mt-2 w-[calc(100vw-2rem)] max-w-[320px] md:w-72 bg-white rounded-xl shadow-2xl border-2 border-gray-200 z-50 overflow-hidden">
+        <>
+          {/* Mobile backdrop */}
+          <div className="md:hidden fixed inset-0 bg-black/20 z-[100]" onClick={() => setShowFilterDropdown(false)} />
+
+          {/* Filter dropdown */}
+          <div className="fixed md:absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 md:translate-x-0 md:translate-y-0 md:top-full md:left-auto md:right-0 md:-mt-2 w-[calc(100vw-2rem)] max-w-[320px] md:w-72 bg-white rounded-xl shadow-2xl border-2 border-gray-200 z-[101] md:z-50 overflow-hidden">
           <div className="p-4 border-b border-gray-200">
             <h4 className="text-sm font-bold text-gray-900 mb-3">
               {t("category") || "Category"}
@@ -100,6 +105,7 @@ export default function FilterDropdown({
             </div>
           )}
         </div>
+        </>
       )}
     </div>
   );

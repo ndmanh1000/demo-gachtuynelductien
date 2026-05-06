@@ -15,7 +15,7 @@
   },
   "FeaturedProducts": {
     "title": "Sản phẩm nổi bật",
-    "subtitle": "OUR MATERIALS",
+    "subtitle": "VẬT LIỆU CỦA CHÚNG TÔI",
     "see_all": "Xem tất cả sản phẩm",
     "solid_brick": {
       "name": "Gạch đặc",
@@ -40,8 +40,9 @@
   },
   "Projects": {
     "title": "Dự án tiêu biểu",
-    "subtitle": "OUR MASTERPIECES",
+    "subtitle": "KIỆT TÁC CỦA CHÚNG TÔI",
     "desc": "Chúng tôi tự hào đồng hành cùng các công trình biểu tượng. Từ các khu phức hợp căn hộ cao cấp đến các khu công nghiệp hiện đại trên khắp cả nước.",
+    "viewAll": "Xem chi tiết tất cả",
     "project1": "Khu căn hộ SkyLine Central",
     "project2": "Tổ hợp công nghiệp Delta-X",
     "project3": "Biệt thự đá The Heritage",
@@ -77,7 +78,7 @@
   },
   "Team": {
     "title": "Đội ngũ chuyên gia",
-    "subtitle": "OUR EXPERTISE",
+    "subtitle": "CHUYÊN MÔN CỦA CHÚNG TÔI",
     "desc": "Những con người tâm huyết đứng sau chất lượng vượt trội của Ceramica Masonry, kết hợp kinh nghiệm truyền thống với kỹ thuật sản xuất hiện đại.",
     "member1": {
       "name": "Nguyễn Văn An",
@@ -102,7 +103,7 @@
   },
   "News": {
     "title": "Tin tức mới nhất",
-    "subtitle": "INDUSTRY INSIGHTS",
+    "subtitle": "THÔNG TIN NGÀNH",
     "see_all": "Tất cả tin tức",
     "previous": "Trước",
     "next": "Tiếp",
@@ -145,21 +146,21 @@
     "desc": "Dẫn đầu trong công nghệ sản xuất gạch nung chất lượng cao, cam kết bền vững và bảo vệ môi trường.",
     "resources": {
       "title": "TÀI LIỆU",
-      "tech_docs": "Technical Docs",
-      "certifications": "Certifications",
-      "install_guide": "Installation Guide"
+      "tech_docs": "Tài liệu kỹ thuật",
+      "certifications": "Chứng nhận",
+      "install_guide": "Hướng dẫn lắp đặt"
     },
     "policies": {
       "title": "CHÍNH SÁCH",
-      "privacy": "Privacy Policy",
-      "terms": "Terms of Service",
-      "warranty": "Warranty"
+      "privacy": "Chính sách bảo mật",
+      "terms": "Điều khoản sử dụng",
+      "warranty": "Chính sách bảo hành"
     },
     "commitment": {
       "title": "CAM KẾT",
-      "environment": "Environmental Impact",
-      "social": "Social Responsibility",
-      "eco_project": "Eco-Brick Project"
+      "environment": "Bảo vệ môi trường",
+      "social": "Trách nhiệm xã hội",
+      "eco_project": "Dự án xanh"
     },
     "copyright": "© 2024 Ceramica Masonry. Produced by Masonry."
   },
@@ -596,6 +597,21 @@
       "city": "Vui lòng chọn tỉnh/thành phố",
       "district": "Vui lòng chọn quận/huyện"
     }
+  },
+  "ContactModal": {
+    "quote_title": "Yêu cầu báo giá",
+    "contact_title": "Liên hệ tư vấn",
+    "name_label": "Họ và tên",
+    "name_placeholder": "Nhập họ và tên của bạn",
+    "phone_label": "Số điện thoại",
+    "phone_placeholder": "0909 000 000",
+    "email_label": "Email",
+    "email_placeholder": "email@example.com",
+    "message_label": "Nội dung",
+    "message_placeholder": "Cho chúng tôi biết về dự án hoặc yêu cầu của bạn...",
+    "submit_btn": "Gửi yêu cầu",
+    "submitting": "Đang gửi...",
+    "success_message": "Cảm ơn bạn! Chúng tôi sẽ liên hệ với bạn sớm nhất."
   },
   "Admin": {
     "adminPanel": "Quản trị viên",

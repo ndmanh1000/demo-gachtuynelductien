@@ -82,6 +82,13 @@ export default function Projects() {
             <ProjectCard key={p.id} p={p} />
           ))}
         </div>
+
+        {/* Mobile View All Link */}
+        <div className="lg:hidden mt-6 text-center">
+          <Link href="/projects" className="inline-flex items-center text-sm font-semibold text-[#b84a14] hover:text-[#a14010]">
+            {t('viewAll') || 'View All Projects'}
+          </Link>
+        </div>
       </div>
     </section>
   );
