@@ -14,23 +14,23 @@ export default function Footer() {
               <span className="text-2xl font-bold text-[#b84a14]">Ceramica</span>
               <span className="text-2xl font-bold text-gray-800 ml-2">Masonry</span>
             </div>
-            <p className="text-gray-500 text-sm leading-relaxed max-w-xs mb-6">
+            <p className="text-gray-500 text-base md:text-sm leading-relaxed max-w-xs mb-6">
               {t('desc')}
             </p>
             <div className="space-y-3">
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-[#b84a14] flex-shrink-0 mt-0.5" />
-                <p className="text-sm text-gray-600">{t('contact.address')}</p>
+                <p className="text-base md:text-sm text-gray-600">{t('contact.address')}</p>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-[#b84a14] flex-shrink-0" />
-                <a href="tel:+842812345678" className="text-sm text-gray-600 hover:text-[#b84a14]">
+                <a href="tel:+842812345678" className="text-base md:text-sm text-gray-600 hover:text-[#b84a14]">
                   {t('contact.phone')}
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-[#b84a14] flex-shrink-0" />
-                <a href="mailto:info@ceramicamasonry.vn" className="text-sm text-gray-600 hover:text-[#b84a14]">
+                <a href="mailto:info@ceramicamasonry.vn" className="text-base md:text-sm text-gray-600 hover:text-[#b84a14]">
                   {t('contact.email')}
                 </a>
               </div>
@@ -40,37 +40,37 @@ export default function Footer() {
           <div>
             <h4 className="text-xs font-bold tracking-widest text-gray-900 uppercase mb-6">{t('resources.title')}</h4>
             <ul className="space-y-4">
-              <li><a href="#" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('resources.tech_docs')}</a></li>
-              <li><a href="#" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('resources.certifications')}</a></li>
-              <li><a href="#" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('resources.install_guide')}</a></li>
+              <li><a href="#" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('resources.tech_docs')}</a></li>
+              <li><a href="#" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('resources.certifications')}</a></li>
+              <li><a href="#" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('resources.install_guide')}</a></li>
             </ul>
           </div>
 
           <div>
             <h4 className="text-xs font-bold tracking-widest text-gray-900 uppercase mb-6">{t('policies.title')}</h4>
             <ul className="space-y-4">
-              <li><Link href="/privacy" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('policies.privacy')}</Link></li>
-              <li><Link href="/terms" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('policies.terms')}</Link></li>
-              <li><a href="#" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('policies.warranty')}</a></li>
+              <li><Link href="/privacy" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('policies.privacy')}</Link></li>
+              <li><Link href="/terms" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('policies.terms')}</Link></li>
+              <li><a href="#" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('policies.warranty')}</a></li>
             </ul>
           </div>
 
           <div>
             <h4 className="text-xs font-bold tracking-widest text-gray-900 uppercase mb-6">{t('commitment.title')}</h4>
             <ul className="space-y-4">
-              <li><a href="#" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('commitment.environment')}</a></li>
-              <li><a href="#" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('commitment.social')}</a></li>
-              <li><a href="#" className="text-sm text-gray-500 hover:text-[#b84a14]">{t('commitment.eco_project')}</a></li>
+              <li><a href="#" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('commitment.environment')}</a></li>
+              <li><a href="#" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('commitment.social')}</a></li>
+              <li><a href="#" className="text-base md:text-sm text-gray-500 hover:text-[#b84a14]">{t('commitment.eco_project')}</a></li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-6">
-          <p className="text-xs text-gray-400">
+          <p className="text-sm md:text-xs text-gray-400 text-center md:text-left">
             {t('copyright')}
           </p>
           <div className="flex items-center gap-4">
-            <span className="text-xs font-medium text-gray-500 uppercase tracking-wider">{t('social.follow')}</span>
+            <span className="text-sm md:text-xs font-medium text-gray-500 uppercase tracking-wider">{t('social.follow')}</span>
             <div className="flex gap-3">
               <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="p-2 rounded-lg bg-gray-100 text-gray-600 hover:bg-[#b84a14] hover:text-white transition-all">
                 <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
